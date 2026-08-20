@@ -1,0 +1,58 @@
+body{
+  background-color: lightcoral;
+}
+
+h1{
+  font-family: 'Times New Roman';
+  color: rgb(78, 132, 147);
+}
+
+h2{
+  align-items: center;
+  font-family: 'Times New Roman';
+  font-size: 35px;
+  color: blue;
+}
+
+.counter-container {
+  margin-top: 40px;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.counter-card {
+  padding: 40px;
+}
+
+.inc{
+  min-width: 100px;
+  margin-top: 20px;
+  min-height: 30px;
+  font-family: 'Times New Roman';
+  font-size: 15px;
+  background-color: antiquewhite;
+}
+
+.dec{
+  min-width: 100px;
+  margin-top: 20px;
+  margin-left: 5px;
+  min-height: 30px;
+  font-family: 'Times New Roman';
+  font-size: 15px;
+  background-color: antiquewhite;
+}
+
+.buttons {
+  align-items: center;
+  gap: 10px;
+}
+
+.reset-button{
+  min-width: 100px;
+  margin-top: 20px;
+  min-height: 30px;
+  font-family: 'Times New Roman';
+  font-size: 15px;
+  background-color: antiquewhite;
+}
